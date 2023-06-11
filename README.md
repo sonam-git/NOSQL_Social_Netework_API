@@ -9,7 +9,7 @@ The NoSQL Social Network API is an API for Node.js that enables users to carry o
 ## Table of Contents:
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
-- [Usage Information](#Usage-Information)
+- [Usage Instruction](#Usage-Instruction)
 - [Installation Process](#Installation-Process)
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
@@ -64,20 +64,20 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 Each endpoint must include the necessary data in the request body or URL parameters as specified in the acceptance criteria.
 
-1. GET /api/users - get all users
-2. GET /api/users/:userId - get a single user by ID
-3. POST /api/users - create a new user
-4. PUT /api/users/:userId - update a user by ID
-5. DELETE /api/users/:userId - delete a user by ID
-6. GET /api/thought - get all thought
-7. GET /api/thought/:thoughtId - get a single thought by ID
-8. POST /api/thought - create a new thought
-9. PUT /api/thought/:thoughtId - update a thought by ID
-10. DELETE /api/thought/:thoughtId - delete a thought by ID
-11. POST /api/thought/:thoughtId/reactions - add a reaction to a thought
-12. DELETE /api/thought/:thoughtId/reactions/:reactionId - remove a reaction from a thought
-13. POST /api/users/:userId/friends/:friendId - add a friend to a user's friend list
-14. DELETE /api/users/:userId/friends/:friendId - remove a friend from a user's friend list
+1. GET /api/users -> get all users
+2. GET /api/users/:userId -> get a single user by ID
+3. POST /api/users -> create a new user
+4. PUT /api/users/:userId -> update a user by ID
+5. DELETE /api/users/:userId -> delete a user by ID
+6. GET /api/thoughts -> get all thoughts
+7. GET /api/thoughts/:thoughtId -> get a single thought by ID
+8. POST /api/thoughts -> create a new thought
+9. PUT /api/thoughts/:thoughtId -> update a thought by ID
+10. DELETE /api/thoughts/:thoughtId -> delete a thought by ID
+11. POST /api/thoughts/:thoughtId/reactions -> add a reaction to a thought
+12. DELETE /api/thoughts/:thoughtId/reactions/:reactionId -> remove a reaction from a thought
+13. POST /api/users/:userId/friends/:friendId -> add a friend to a user's friend list
+14. DELETE /api/users/:userId/friends/:friendId -> remove a friend from a user's friend list
 
 ## Deployed Application Link:
 [Deployed Application Link:]()
