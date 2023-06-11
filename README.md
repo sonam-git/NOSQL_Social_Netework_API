@@ -125,7 +125,7 @@ Each endpoint must include the necessary data in the request body or URL paramet
 4. Explore different types of NoSQL databases and evaluate their suitability for the project requirements.
 5. Expand API documentation to assist developers with using the API.
 
-## License & Copyright ©
+## License 
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
 
