@@ -89,9 +89,7 @@ Each endpoint must include the necessary data in the request body or URL paramet
 [Click Here to Watch](https://drive.google.com/file/d/1FD8YTII2RF0zfojkmIeltyygPDM4_KZD/view)
 
 ## Screenshots:
-*  VS Code & Postman 
-
-![](/Public/assets/images/NOSQL.png)
+![ VS Code & Postman ](/Public/assets/images/NOSQL.png)
 
 ## Installation Process:
 1. Clone the Repository from GitHub (or) Download Zip Folder from Repository from GitHub.
