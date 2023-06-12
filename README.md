@@ -55,7 +55,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Usage Instructions:
 
-1. Repository: Open documentation run 'npm i' and update '.env' if you would like to to store environment variables.
+1. Repository: Open documentation run 'npm i' and update '.env' if you would like to store environment variables.
 2. Create a .env file in the root directory of the project and add the following variables:
 3. Once the server is running, use a tool like Postman to test the API endpoints. 
 4. Use Postman or any similar tool to test http://localhost:3001 with the following route end points API GET, POST, PUT, and DELETE routes for users, thoughts, and reactions, ensuring successful creation, updating, and deletion of data in the database.
