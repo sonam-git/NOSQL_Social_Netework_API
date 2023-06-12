@@ -86,7 +86,7 @@ Each endpoint must include the necessary data in the request body or URL paramet
 [GitHub Repository:](https://github.com/sonam-git/NOSQL_Social_Netework_API)
 
 ## Walkthrough Video:
-[Click Here to Watch](https://drive.google.com/file/d/1X5qP8El0S2wi7slaag5S48gsO8nz_5iD/view)
+[Click Here to Watch](https://drive.google.com/file/d/1FD8YTII2RF0zfojkmIeltyygPDM4_KZD/view)
 
 ## Screenshots:
 *  VS Code & Postman 
