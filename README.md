@@ -80,13 +80,13 @@ Each endpoint must include the necessary data in the request body or URL paramet
 14. DELETE /api/users/:userId/friends/:friendId -> remove a friend from a user's friend list
 
 ## Deployed Application Link:
-[Deployed Application Link:]()
+[Deployed Application Link:](https://github.com/sonam-git/NOSQL_Social_Netework_API)
 
 ## GitHub Repository:
-[GitHub Repository:]()
+[GitHub Repository:](https://github.com/sonam-git/NOSQL_Social_Netework_API)
 
 ## Walkthrough Video:
-[Click Here to Watch]()
+[Click Here to Watch](https://drive.google.com/file/d/1X5qP8El0S2wi7slaag5S48gsO8nz_5iD/view)
 
 ## Screenshots:
 *  VS Code & Postman 
@@ -117,8 +117,6 @@ Each endpoint must include the necessary data in the request body or URL paramet
 4. Implemented functionality to add or remove friends from a user's friend list through dedicated endpoints.
 5. Throughly tested the API endpoints using Postman, ensuring they are properly functioning.
 6. Collaborated extensively with HTTP requests and processed JSON-formatted data.
-7. Safeguarded sensitive data by utilizing environment variables and storing them securely in .env files.
-
 ### Continued Development:
 1. Implement additional features to enhance the user experience.
 2. Improve error handling and response messaging for better user feedback.
@@ -128,10 +126,10 @@ Each endpoint must include the necessary data in the request body or URL paramet
 
 ## License 
   
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Author
 
-Follow me on Github at [Sonam J Sherpa](https://github.com/sonam-git)! Additional questions or concerns? feel free to contact me at sherpa.sjs@gmail.com
+* Follow me on Github at [Sonam J Sherpa](https://github.com/sonam-git)
+* Additional questions or concerns? feel free to contact me at [Email](sherpa.sjs@gmail.com)
 
